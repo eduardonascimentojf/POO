@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Exercicio18 {
 
     public static void main(String[] args) {
+
         Scanner teclado = new Scanner(System.in);
         int tamanho = 5;
         float[] notas = new float[tamanho];

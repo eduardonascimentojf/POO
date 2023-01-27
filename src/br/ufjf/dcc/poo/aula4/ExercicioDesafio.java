@@ -7,6 +7,7 @@ public class ExercicioDesafio {
 
         int linha = Integer.parseInt(JOptionPane.showInputDialog("Quantas linhas"));
         int coluna = Integer.parseInt(JOptionPane.showInputDialog("Quantas colunas"));
+
         int[][] notas = new int[linha][coluna];
 
         for (int i = 0; i < linha; i++){

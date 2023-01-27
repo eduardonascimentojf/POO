@@ -14,7 +14,6 @@ public class Exercicio19 {
             salario[i] = new Scanner(System.in).nextFloat();
         }while ( i<99 || salario[i] != -1 );
 
-
         System.out.println ("Informe o valor do reajuste em porcentagem");
         float reajuste = new Scanner(System.in).nextFloat();
         reajuste/=100; //Para a forma decimal, reajuste = reajuste/100;
