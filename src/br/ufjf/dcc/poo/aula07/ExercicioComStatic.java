@@ -1,4 +1,4 @@
-package br.ufjf.dcc.poo.aula7;
+package br.ufjf.dcc.poo.aula07;
 
 import java.util.Date;
 
