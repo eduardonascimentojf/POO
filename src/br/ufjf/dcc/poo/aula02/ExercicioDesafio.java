@@ -1,4 +1,4 @@
-package br.ufjf.dcc.poo.aula2;
+package br.ufjf.dcc.poo.aula02;
 
 import javax.swing.*;
 /*
