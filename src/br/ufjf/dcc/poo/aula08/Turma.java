@@ -1,4 +1,4 @@
-package br.ufjf.dcc.poo.aula8;
+package br.ufjf.dcc.poo.aula08;
 
 import java.util.*;
 

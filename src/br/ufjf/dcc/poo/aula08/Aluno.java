@@ -1,6 +1,5 @@
-package br.ufjf.dcc.poo.aula8;
+package br.ufjf.dcc.poo.aula08;
 
-import javax.xml.crypto.Data;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
