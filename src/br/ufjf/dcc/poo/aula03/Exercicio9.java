@@ -1,4 +1,4 @@
-package br.ufjf.dcc.poo.aula3;
+package br.ufjf.dcc.poo.aula03;
 
 import java.util.Scanner;
 
