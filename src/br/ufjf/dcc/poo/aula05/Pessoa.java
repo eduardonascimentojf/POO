@@ -1,4 +1,4 @@
-package br.ufjf.dcc.poo.aula5;
+package br.ufjf.dcc.poo.aula05;
 
 public class Pessoa {
     private String nome;
