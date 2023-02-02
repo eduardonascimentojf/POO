@@ -1,5 +1,5 @@
 
-package br.ufjf.dcc.poo.aula6;
+package br.ufjf.dcc.poo.aula06;
 
 import java.util.Date;
 
