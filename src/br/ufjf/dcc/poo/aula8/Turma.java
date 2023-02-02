@@ -3,7 +3,7 @@ package br.ufjf.dcc.poo.aula8;
 import java.util.*;
 
 public class Turma {
-    private final Map<String, Aluno> turma = new HashMap<String, Aluno>();
+    private final Map<String, Aluno> turma = new HashMap<>();
 
     public void cadastrarAluno(Aluno aluno) {
 
@@ -51,7 +51,7 @@ public class Turma {
         int idade = 0;
         String keyAlunoMaisVelho = "";
         for (String keyAluno : turma.keySet()) {
-            if(turma.get(keyAluno).idade() > idade){
+            if(turma.get(keyAluno).idade() >= idade){
                 idade = turma.get(keyAluno).idade();
                 keyAlunoMaisVelho = keyAluno;
             }

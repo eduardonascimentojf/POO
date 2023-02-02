@@ -51,7 +51,7 @@ public class Aluno {
 
 
     public int idade() {
-        String mesNasc, anoNasc, mesAtual, anoAtual;
+        String anoNasc, anoAtual;
         Date data = new Date();
         SimpleDateFormat formatador = new SimpleDateFormat("dd-MM-yyyy");
         String dataAtual = formatador.format(data);
