@@ -1,5 +1,5 @@
 
-package br.ufjf.dcc.poo.aula9;
+package br.ufjf.dcc.poo.aula09;
 
 public class Exercicio2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package br.ufjf.dcc.poo.aula9;
+package br.ufjf.dcc.poo.aula09;
 
 import java.util.ArrayList;
 
