@@ -1,6 +1,6 @@
 package br.ufjf.dcc.poo.aula9;
 
-public class Exercicio24 {
+public class Exercicio1 {
     public static void main(String[] args) {
 
         System.out.println("Iniciando uma pilha de inteiros ");

@@ -1,7 +1,7 @@
 
 package br.ufjf.dcc.poo.aula9;
 
-public class Exercicio25 {
+public class Exercicio2 {
     public static void main(String[] args) {
         System.out.println("Iniciando uma Tupla de inteiros e string ");
         Tupla<Integer, String> tupla = new Tupla<>();
