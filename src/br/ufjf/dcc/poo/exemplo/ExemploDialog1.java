@@ -11,5 +11,6 @@ public class ExemploDialog1 {
     public static void main(String[] args) {
         String nome = JOptionPane.showInputDialog(null, "Digite um nome");
         System.out.println("Ola,"+ nome);
+
     }
 }
