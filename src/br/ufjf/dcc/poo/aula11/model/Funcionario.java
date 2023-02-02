@@ -1,4 +1,5 @@
-package br.ufjf.dcc.poo.aula11;
+package br.ufjf.dcc.poo.aula11.model;
+
 import java.util.ArrayList;
 
 public class Funcionario extends Pessoa {

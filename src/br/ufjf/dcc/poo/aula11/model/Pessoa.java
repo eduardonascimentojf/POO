@@ -1,4 +1,4 @@
-package br.ufjf.dcc.poo.aula11;
+package br.ufjf.dcc.poo.aula11.model;
 
 public abstract class Pessoa {
 

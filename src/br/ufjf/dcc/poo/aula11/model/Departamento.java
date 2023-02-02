@@ -1,4 +1,6 @@
-package br.ufjf.dcc.poo.aula11;
+package br.ufjf.dcc.poo.aula11.model;
+
+import br.ufjf.dcc.poo.aula11.model.Funcionario;
 
 import java.util.ArrayList;
 

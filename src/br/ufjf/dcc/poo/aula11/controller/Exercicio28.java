@@ -1,4 +1,4 @@
-package br.ufjf.dcc.poo.aula11;
+package br.ufjf.dcc.poo.aula11.controller;
 
 public class Exercicio28 {
     public static void main(String[] args) {
