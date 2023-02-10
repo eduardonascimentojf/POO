@@ -2,7 +2,7 @@ Neste repositório contem os princípios da programação em Java, desde conceit
 
 - [Aula 1](https://github.com/eduardonascimentojf/POO/tree/master/src/br/ufjf/dcc/poo/aula01) → Tipos de dados, declaração de variáveis e constantes, atribuição de valores e entrada e saída de dados.
 - [Aula 2](https://github.com/eduardonascimentojf/POO/tree/master/src/br/ufjf/dcc/poo/aula02) → Entrada e Saída com caixas de Diálogo
-- [Aula 3](https://github.com/eduardonascimentojf/POO/tree/master/src/br/ufjf/dcc/poo/aula02) → Operadores, estruturas de decisão, estruturas de repetição e Strings
+- [Aula 3](https://github.com/eduardonascimentojf/POO/tree/master/src/br/ufjf/dcc/poo/aula03) → Operadores, estruturas de decisão, estruturas de repetição e Strings
 - [Aula 4](https://github.com/eduardonascimentojf/POO/tree/master/src/br/ufjf/dcc/poo/aula04) → Vetores e Matrizes
 - [Aula 5](https://github.com/eduardonascimentojf/POO/tree/master/src/br/ufjf/dcc/poo/aula05) → Introdução a Orientação a Objetos
 - [Aula 6](https://github.com/eduardonascimentojf/POO/tree/master/src/br/ufjf/dcc/poo/aula06) → Encapsulamento
